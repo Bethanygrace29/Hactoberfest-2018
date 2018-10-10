@@ -1,6 +1,0 @@
-git commit -m 'hello world!'
-// LANGUAGE: Java
-// AUTHOR:Bethany Taylor
-// GITHUB: https://github.com/bethanygrace29
-
-print('Hello World')
